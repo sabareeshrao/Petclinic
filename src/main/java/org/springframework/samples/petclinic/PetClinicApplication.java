@@ -6,6 +6,9 @@ public class PetClinicApplication {
     // Batch - 005: Add the Java application entry point.
     public static void main(String[] args) {
 
+        // Batch - 008: Print the first PetClinic startup message.
+        System.out.println("PetClinic application started");
+
     }
 
 }
