@@ -1,10 +1,9 @@
-// Batch - 004 Part 1: Declare the Java package for the PetClinic application class.
+// Batch - 004: Create the first Java class in the PetClinic package.
 package org.springframework.samples.petclinic;
 
-// Batch - 004 Part 2: Define the first Java class for the project.
 public class PetClinicApplication {
 
-    // Batch - 005 Part 1: Add the Java application entry point.
+    // Batch - 005: Add the Java application entry point.
     public static void main(String[] args) {
 
     }
